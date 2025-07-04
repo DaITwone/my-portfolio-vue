@@ -1,0 +1,23 @@
+
+a.router-link-exact-active {
+  text-decoration: underline;
+}
+:root {
+  --bg-color: #ffffff;
+  --text-color: #222222;
+}
+
+.dark {
+  --bg-color: #121212;
+  --text-color: #eeeeee;
+}
+/* Áp dụng biến vào toàn layout */
+body {
+  margin: 0;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+a.router-link-exact-active {
+  text-decoration: underline;
+}
