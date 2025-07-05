@@ -1,15 +1,15 @@
-# 🌟 My Portfolio - Vue 3 + TypeScript
+# My Portfolio - Vue 3 + TypeScript
 
 > This is my personal portfolio website built with **Vue 3 + TypeScript**. It showcases my skills, experience, projects, and contact information.
 
-## 🚀 Technologies Used
+## Technologies Used
 
-- ⚙️ [Vue.js 3](https://vuejs.org/) + [Vite](https://vitejs.dev/)
-- 💡 TypeScript
-- 💅 Plain CSS (no CSS framework)
-- 📁 Modular component structure
+- [Vue.js 3](https://vuejs.org/) + [Vite](https://vitejs.dev/)
+- TypeScript
+- Plain CSS (no CSS framework)
+- Modular component structure
 
-## 🧩 Main Components
+## Main Components
 
 | Component | Description |
 |-----------|-------------|
@@ -20,11 +20,11 @@
 | `Contact.vue` | Contact info (email, social media) |
 | `Header.vue` / `Footer.vue` | Navigation bar and footer |
 
-## 🖥️ Preview
+## Preview
 
 > _You can add a screenshot of the website here if you like._
 
-## 📦 Setup and Run Locally
+## Setup and Run Locally
 
 ```bash
 # Clone this project
